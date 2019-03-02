@@ -1,20 +1,10 @@
 ---
-layout: page
-title: Cambia tus apellidos, el orden o tu nombre.
-tagline: Pasos para el cambio de tus datos personales en España
-description: Pasos para el cambio de tus datos personales en España
+layout: home
+title: Información
 ---
 
-# Cambia tus apellidos (o tu nombre)
-
-## Introducción
+### Fuentes
 
 ---
 
-## Fuentes
-
----
-
-Para realizar cambios y más información visita el código fuente en [GitHub](https://github.com/davidgg/cambia-tus-apellidos).
-
-[Sobre mí](https://davidgg.es).
+Si quieres contribuir a esta guía visita la página del proyecto en [GitHub](https://github.com/davidgg/cambia-tus-apellidos).
