@@ -1,0 +1,27 @@
+title: Cambia tus apellidos, el orden o tu nombre.
+description: Pasos para el cambio de tus datos personales en España.
+url: http://cambiatusapellidos.gaseosalabs.com
+lang: es_ES
+theme: minima
+
+header_pages:
+  - about.md
+  - portfolio.md
+
+# Themes are encouraged to use these universal variables
+# so be sure to set them if your theme uses them.
+author:
+  name: David GG
+  email: hola@davidgg.es
+  github: davidgg
+  twitter: deibiz
+  feedburner: nil
+
+minima:
+  social_links:
+    twitter: deibiz
+    github: davidgg
+
+twitter:
+  username: deibiz
+  card: summary
