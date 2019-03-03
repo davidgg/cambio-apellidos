@@ -17,11 +17,11 @@ deben estar mencionados, o anotados de alguna forma, en la información proporci
 1. **Situación particular**. Cada uno de nosotros tiene unas circunstancias únicas
    por lo que es posible que alguno de los pasos o experiencias reflejadas no se ajusten
    completamente a un caso concreto.
-1. **Fecha**. La información sobre trámites y procedimientos es susceptible de
+2. **Fecha**. La información sobre trámites y procedimientos es susceptible de
    variar a lo largo del tiempo, pues están sujetos a la legislación vigente.
-1. **Región**. Las diferentes administraciones dentro del territorio español pueden
+3. **Región**. Las diferentes administraciones dentro del territorio español pueden
    tener relevancia a la hora de realizar ciertos trámites, pudiendo variar incluso entre ciudades.
-1. **Burocracia**. Hay factores inherentes a la burocracia española (y del mundo)
+4. **Burocracia**. Hay factores inherentes a la burocracia española (y del mundo)
    que hacen del proceso una experiencia individual para cada uno, desde los
    tiempos de tramitación hasta las explicaciones a proporcionar al funcionario que
    nos atienda.
