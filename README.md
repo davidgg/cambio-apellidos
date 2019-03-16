@@ -38,7 +38,7 @@ Es posible albergar información sobre los diferentes procesos en cada país en 
 
 ## Contribuciones
 
-Por favor, lee atentamente la guía [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) para detalles sobre cómo contribuir correctamente a este repositorio.
+Por favor, lee atentamente la guía [CONTRIBUTING.md](CONTRIBUTING.md) para detalles sobre cómo contribuir correctamente a este repositorio.
 
 ## Autores
 
