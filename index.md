@@ -197,9 +197,21 @@ El trámite es muy rápido, acudes a la mesa, das tu DNI y te cambian los datos 
 menos de un minuto ya está hecho. A veces te preguntan si quieres que te saquen el informe de vida laboral,
 aunque actualmente lo puedes consultar en casa de forma rápida y cómoda, [Informe de vida laboral](https://sede.seg-social.gob.es/wps/portal/sede/sede/Inicio) (en la columna de "Lo más visto" suele estar el primero).
 
-Recuerda, solicitar una nueva tarjeta de sanidad, el procedimiento depende de la Comunidad, siendo
-normalmente necesario acudir al centro médico que tengas asignado para solicitarlo.
-Y, solicitar otra tarjeta de Sanidad Europea.
+Este trámite es gratuito.
+
+### Sanidad
+
+Una vez realizados los trámites anteriores deberías cambiar tu tarjeta sanitaria. El procedimiento depende de la Comunidad, siendo normalmente necesario acudir al centro médico que tengas asignado para solicitarlo. Suelen pedir una fotocopia del DNI actual. Tendrás que rellenar un formulario con tus datos actuales.
+
+Te quitarán tu tarjeta sanitaria actual y te darán un documento que acredita que tienes acceso a las prestaciones. Utilizarás dicho documento hasta que llegue a casa la nueva tarjeta.
+
+Este trámite es gratuito.
+
+### Tarjeta Sanitaria Europea
+
+Es aconsejable, que si sueles utilizar esta tarjeta, la vayas a renovar. Normalmente este procedimiento lo harás a través de internet y te enviarán la tarjeta a casa. Este procedimiento ordinario, no permite la solicitud de una nueva tarjeta mientras haya una vigente. Si ya tienes una tarjeta sanitaria que no ha expirado deberás acudir a una de las oficinas, con cita previa, para realizar el trámite presencialmente.
+
+Para encontrar una oficina CAISS (Centro de Atención e Información de la Seguridad Social) y solicitar cita previa, visita la web de la Seguridad Social y rellena [este formulario](https://w6.seg-social.es/ProsaInternetAnonimo/OnlineAccess?ARQ.SPM.ACTION=LOGIN&ARQ.SPM.APPTYPE=SERVICE&ARQ.IDAPP=XV106001)
 
 Este trámite es gratuito.
 
