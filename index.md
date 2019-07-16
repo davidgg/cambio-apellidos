@@ -163,7 +163,8 @@ Te podrá parecer algo repetitivo, pero no está de más dejar bien claro cuál 
 nombre.
 
 No tengo constancia del tiempo que tardan en realizar la modificación, pero en mi caso, en
-un Ayuntamiento pequeño me dieron en plazo de una semana.
+un Ayuntamiento pequeño me dieron el plazo de una semana. Al modificar el empadronamiento te
+llegará una tarjeta censal a tu domicilio con tus nuevos datos, en un plazo de 6 meses aproximadamente.
 
 Este trámite es gratuito, si te quieres ahorrar el tener que escribir el formulario allí mismo,
 visita la página web del Ayuntamiento para descargar, imprimir y rellenar el formulario.
