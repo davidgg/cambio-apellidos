@@ -2,11 +2,11 @@ Accede a la información: [cambioapellidos.gaseosalabs.com](https://cambioapelli
 
 # Cambia tus apellidos (España)
 
-Este repositorio aspira a describir los pasos necesarios para realizar cualquier cambio,
-tanto del nombre como de los apellidos dentro de **España**.
+Este repositorio aspira a describir los pasos necesarios para realizar cualquier cambio
+del nombre o de los apellidos dentro de **España**.
 
-La información plasmada refleja mi experiencia personal para realizar el proceso
-de cambio de orden de apellidos y diferentes fuentes que he ido consultando.
+La información plasmada refleja mi experiencia personal al realizar el proceso
+de cambio de orden de apellidos, así como diferentes fuentes que he ido consultando.
 
 ## Exactitud de la información
 
@@ -14,11 +14,11 @@ Hay varios factores que pueden afectar a la exactitud de la información.
 Téngalos en cuenta al leer y contribuir con este repositorio. Cuando sea posible,
 deben estar mencionados, o anotados de alguna forma, en la información proporcionada.
 
-1. **Situación particular**. Cada uno de nosotros tiene unas circunstancias únicas
+1. **Situación particular**. Cada uno de nosotros tiene unas circunstancias únicas,
    por lo que es posible que alguno de los pasos o experiencias reflejadas no se ajusten
    completamente a un caso concreto.
 2. **Fecha**. La información sobre trámites y procedimientos es susceptible de
-   variar a lo largo del tiempo, pues están sujetos a la legislación vigente.
+   variar a lo largo del tiempo, pues está sujeta a la legislación vigente.
 3. **Región**. Las diferentes administraciones dentro del territorio español pueden
    tener relevancia a la hora de realizar ciertos trámites, pudiendo variar incluso entre ciudades.
 4. **Burocracia**. Hay factores inherentes a la burocracia española (y del mundo)
